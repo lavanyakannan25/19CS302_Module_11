@@ -33,7 +33,8 @@ int main() {
 
 ## Output:
 
-<img width="422" height="201" alt="image" src="https://github.com/user-attachments/assets/ce539e49-b429-463e-a24e-f2c4fb14d620" />
+<img width="259" height="47" alt="image" src="https://github.com/user-attachments/assets/a0fb7afc-b07a-42ce-9d67-6c11c2510017" />
+
 
 
 ## Result:
