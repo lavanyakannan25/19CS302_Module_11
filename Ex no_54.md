@@ -26,7 +26,7 @@ int main() {
 }
 ```
 # Output:
-<img width="567" height="153" alt="image" src="https://github.com/user-attachments/assets/4e05c065-7705-4317-b97b-c9f4111f5793" />
+<img width="1315" height="215" alt="image" src="https://github.com/user-attachments/assets/cd5fc509-7ba9-4565-b37c-174285dc99db" />
 
 # Result:
 Thus the program was executed and the output was verified successfully.
