@@ -40,7 +40,8 @@ int main() {
 
 ## Output:
 
-<img width="378" height="201" alt="image" src="https://github.com/user-attachments/assets/9cd1e61e-cb8d-4d50-ae2d-de1c758a413e" />
+<img width="772" height="334" alt="image" src="https://github.com/user-attachments/assets/32d29f3b-4d72-4f28-ae20-a30a564b4815" />
+
 
 
 ## Result:
