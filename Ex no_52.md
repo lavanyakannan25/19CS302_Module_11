@@ -51,7 +51,8 @@ int main()
 }
 ```
 # OUTPUT:
-<img width="814" height="374" alt="image" src="https://github.com/user-attachments/assets/f3b6cf4f-7e24-489f-bcd8-87c84c55bacf" />
+<img width="1025" height="449" alt="image" src="https://github.com/user-attachments/assets/be59ee97-d60f-4a44-8989-eabcc21c2823" />
+
 
 # RESULT:
 Thus, the program is executed and verified successfully.
